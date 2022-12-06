@@ -205,7 +205,7 @@ music_sales %>%
   guides(fill=guide_legend(title="Song Titles"))
 ```
 
-![](Music-Sales_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](unnamed-chunk-9-1.png)<!-- -->
 
 **Determine the store with the most streams. Amazon Unlimited, Spotify,
 and Amazon Cloud are have streamed the most during this period**.
@@ -221,7 +221,7 @@ store_totals %>%
         plot.title = element_text(hjust = 0.5))
 ```
 
-![](Music-Sales_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](unnamed-chunk-10-1.png)<!-- -->
 
 **Determine the most popular streaming countries. Taiwan has 20,000 more
 streams than the second country (Canada)**.
